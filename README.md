@@ -21,9 +21,15 @@ Once installed, navigate to your working directory using the command `cd` + the 
 cd Downloads
 ```
 ### Fork the repo
+![Fork](http://i.imgur.com/FpYsjMK.png)
+
 To contribute to this repository, you must first fork it. Click the 'fork' button at the top right of this page. This will create you own version of the repository in your GitHub account. Navigate to that page and copy the url in this box.
 
+
+
 ### Clone to your local machine
+![Copy](http://i.imgur.com/5k665GW.png)
+
 Cloning is the way Git allows us to download the repository from GitHub and put it on our local machine. To do this, copy the URL (you can click the clipboard icon on the right for a quick-copy) from your repository, and head into the Terminal/Git Client and paste in:
 ```
 git clone https://github.com/[yourusename]/FreeCodeCampOC.git
@@ -56,6 +62,8 @@ Notice that we can change the contents of the commit message in the quotes ("my 
 git push origin master
 ```
 What this does is push the 'master' branch to the 'origin' remote, in which case should only be ours. See more below on remotes. What has this change done? If everything was done correctly, our forked repository should have "my commit" in the commit history. How do we merge our changes into the main FreeCodeCampOC folder? We can do so by initiating a pull request.
+
+![Pull request](http://i.imgur.com/ZKndI69.png)
 
 
 ### Adding a remote upstream
