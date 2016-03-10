@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+as;ldfh;ashgkjlwg;kaewhg;iwj text
+=======
+hello guys i will help code!
+
+--martin free code camp oc
+>>>>>>> c564c93419fa9da6ce87f799ec73ac62e9f7d0ed
