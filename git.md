@@ -1,20 +1,3 @@
-# FreeCodeCampOC
-Whether you are a total beginner or well experienced, we welcome you to join us if you are interested in code pairing, enhancing your technical skills in JavaScript, JQuery, HTML, CSS, Angular.js, Node.js. and much more. This is also for anyone currently taking the Free Code Camp courses online (at [www.freecodecamp.com](www.freecodecamp.com)) hoping to connect with a local campers in Orange County, CA.
-
-## About Us
-To sign up for the latest events and stay up to date with the group be sure to checkout:
-* [FreeCodeCamp OC Meetup](http://www.meetup.com/Free-Code-Camp-Orange-County-CA/)
-* [Facebook](https://www.facebook.com/groups/free.code.camp.orange.county/)
-
-## Goals
-* Projects to collaborate on : TBA
-* Goals: Let's get one commit a day
-* Download: [TeamViewer11](http://teamviewer.com/en/), [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/en/download/)
-
-## Getting Started with TeamViewer
-Normally each week we use TeamViewer 11 to solve FreeCodeCamp's bonfires together. We discuss it and go through it step-by-step, and look for different ways to solve the same problem. 
-
-
 ## Getting Started with Git/GitHub
 To make sure we can all contribute to this repository, make sure to download Git. There is a good guide to setting up found here: [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Once you have Git installed, you can run the following command to ensure it is installed:
 ```
