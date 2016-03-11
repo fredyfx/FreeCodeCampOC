@@ -8,8 +8,12 @@ To sign up for the latest events and stay up to date with the group be sure to c
 
 ## Goals
 * Projects to collaborate on : TBA
-* Goals: Let's try to get at least one commit a day
+* Goals: Let's get one commit a day
 * Download: [TeamViewer11](http://teamviewer.com/en/), [Git](https://git-scm.com/downloads)
+
+## Getting Started with TeamViewer
+Normally each week we use TeamViewer 11 to solve FreeCodeCamp's bonfires together. We discuss it and go through it step-by-step, and look for different ways to solve the same problem. 
+
 
 ## Getting Started with Git/GitHub
 To make sure we can all contribute to this repository, make sure to download Git. There is a good guide to setting up found here: [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Once you have Git installed, you can run the following command to ensure it is installed:
@@ -61,7 +65,7 @@ Notice that we can change the contents of the commit message in the quotes ("my 
 ```
 git push origin master
 ```
-What this does is push the 'master' branch to the 'origin' remote, in which case should only be ours. See more below on remotes. What has this change done? If everything was done correctly, our forked repository should have "my commit" in the commit history. How do we merge our changes into the main FreeCodeCampOC folder? We can do so by initiating a pull request.
+What this does is push the 'master' branch to the 'origin' remote, in which case should only be ours. See more below on remotes. What has this change done? If everything was done correctly, our forked repository should have "my commit" in the commit history. How do we merge our changes into the main FreeCodeCampOC folder? We can do so by initiating a pull request (Do this on your repo that you have forked).
 
 ![Pull request](http://i.imgur.com/ZKndI69.png)
 
