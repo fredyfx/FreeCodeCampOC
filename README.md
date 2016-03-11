@@ -8,7 +8,7 @@ Whether you are a total beginner or an experienced developer, join us to grow yo
 
 Experienced devs are welcome too! Sharing your knowledge of JQuery, Angular, React, or Node is a great way to hone your skills.
 
-Free Code Camp Orange County is a great way to get started with web development, level up, and connect with new friends in the OC community.
+Get started with web development, level up, and make new friends at Free Code Camp Orange County.
 
 ## Goals
 * Projects to collaborate on : TBA
