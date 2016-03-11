@@ -6,7 +6,7 @@ Welcome to the [Free Code Camp](www.freecodecamp.com) Orange County community re
 ## About Us
 Whether you are a total beginner or an experienced developer, join us to grow your skills in HTML, CSS, and JavaScript. If you haven't already, be sure to join our local [Meetup](http://www.meetup.com/Free-Code-Camp-Orange-County-CA/) to receive updates and invites to connect with other Orange County campers. You can also join the [Facebook Group](https://www.facebook.com/groups/free.code.camp.orange.county/) or pop into [our chat room](https://gitter.im/FreeCodeCamp/OrangeCounty) to introduce yourself or get help.
 
-Experienced devs are welcome too! What better way to hone your skills than to share your knowledge of JQuery, Angular, React, or Node?
+Experienced devs are welcome too! Sharing your knowledge of JQuery, Angular, React, or Node is a great way to hone your skills.
 
 Free Code Camp Orange County is a great way to get started with web development, level up, and connect with new friends in the OC community.
 
