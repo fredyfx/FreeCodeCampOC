@@ -1,10 +1,14 @@
-# FreeCodeCampOC
-Whether you are a total beginner or well experienced, we welcome you to join us if you are interested in code pairing, enhancing your technical skills in JavaScript, JQuery, HTML, CSS, Angular.js, Node.js. and much more. This is also for anyone currently taking the Free Code Camp courses online (at [www.freecodecamp.com](www.freecodecamp.com)) hoping to connect with a local campers in Orange County, CA.
+# FreeCodeCamp/OrangeCounty
+Welcome to the [Free Code Camp](www.freecodecamp.com) Orange County community repo!
+
+[![Join the chat at https://gitter.im/FreeCodeCamp/OrangeCounty](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/FreeCodeCamp/OrangeCounty)
 
 ## About Us
-To sign up for the latest events and stay up to date with the group be sure to checkout:
-* [FreeCodeCamp OC Meetup](http://www.meetup.com/Free-Code-Camp-Orange-County-CA/)
-* [Facebook](https://www.facebook.com/groups/free.code.camp.orange.county/)
+Whether you are a total beginner or an experienced developer, join us to grow your skills in HTML, CSS, and JavaScript. If you haven't already, be sure to join our local [Meetup](http://www.meetup.com/Free-Code-Camp-Orange-County-CA/) to receive updates and invites to connect with other Orange County campers. You can also join the [Facebook Group](https://www.facebook.com/groups/free.code.camp.orange.county/) or pop into [our chat room](https://gitter.im/FreeCodeCamp/OrangeCounty) to introduce yourself or get help.
+
+Experienced devs are welcome too! Sharing your knowledge of JQuery, Angular, React, or Node is a great way to hone your skills.
+
+Get started with web development, level up, and make new friends at Free Code Camp Orange County.
 
 ## Goals
 * Projects to collaborate on : TBA
