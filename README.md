@@ -71,8 +71,9 @@ What this does is push the 'master' branch to the 'origin' remote, in which case
 
 
 ### Adding a remote upstream
-Okay awesome, so we made some changes, contributed, went the whole mile. That's it right? Wrong. What if another person was contributing in the original FreeCodeCampOC repository, and we don't have their changes? We need to add a remote. To add a remote (this repository), type in:
+Okay awesome, so we made some changes, contributed, went the whole mile. That's it right? Wrong. What if another person was contributing in the original FreeCodeCampOC repository, and we don't have their changes? We need to add a remote. To add a remote (this repository), first go into the folder, then add the upstream:
 ```
+cd FreeCodeCampOC
 git remote add upstream https://github.com/dinhjeffrey/FreeCodeCampOC.git
 ```
 This will allow you to access this repo to fetch the current data. To do so, we must run:
