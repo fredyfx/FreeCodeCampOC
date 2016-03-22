@@ -92,3 +92,4 @@ This will fetch the recent additions, and merge them with your current changes t
 * [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 * [Adding a remote](https://help.github.com/articles/adding-a-remote/)
 * [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+* [Learn and practice in 15 minutes!](https://try.github.io/)
